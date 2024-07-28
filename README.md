@@ -1,4 +1,4 @@
-Bug Report for NoPixel dev. team.
+<b> Bug Report for NoPixel dev. team. </b>
 
 Title: <br>
 View washing machine details through wall. 
