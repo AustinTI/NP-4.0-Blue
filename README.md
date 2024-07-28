@@ -14,7 +14,7 @@ I can view a washing machine stats/ details like; money inside, outcome, next up
 
 
 User Information: <br>
-Citizen ID: 22453
-Discord: AST33L
-NoPixel Username: St33l
+Citizen ID: 22453 <br>
+Discord: AST33L <br>
+NoPixel Username: St33l <br>
 NoPixel.net Profile: https://www.nopixel.net/upload/index.php?members/st33l.578252/
