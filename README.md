@@ -1,19 +1,19 @@
 Bug Report for NoPixel dev. team.
 
-Title: 
+Title: <br>
 View washing machine details through wall. 
 
-Server:
+Server: <br>
 Public - Blue 
 
-Location:
+Location: <br>
 Little Seoul Apartments / Apartment # A1106
 
-Summary:
+Summary: <br>
 I can view a washing machine stats/ details like; money inside, outcome, next update, etc.. through the wall of an apartment (that isn't mine..). 
 
 
-User Information: 
+User Information: <br>
 Citizen ID: 22453
 Discord: AST33L
 NoPixel Username: St33l
